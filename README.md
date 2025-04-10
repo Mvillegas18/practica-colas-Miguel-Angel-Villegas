@@ -12,7 +12,7 @@ Atributos:
 
 1. Ingrese articulos
 2. Venta de articulos, los cuales si el monto supera la venta promedio que es ingresada por el usuario se da un descuento del 10%
-3. Modificar si se modifica el precio por encima de la venta promedio se agrefa el descuento
+3. Modificar si se modifica el precio por encima de la venta promedio se agrega el descuento
 4. Eliminar
 
 **Tener en cuenta las posibles validaciones** 
